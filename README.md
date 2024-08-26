@@ -1,8 +1,8 @@
-# Project Senario 
+# Project Senario🗺
 
 This is a simple basic ETL(Extract,Transform and Load) project using Shell scripts.Extracted required fields from the access log file of a random website.Transform the data into CSV format.Then load the data into a table in a local database using PostgreSQL.
 
-# Tasks
+# Tasks📝
 - Created a database with a table called access_log
 - Extracted required fields from the file.
 - Transformed the data into CSV format.
