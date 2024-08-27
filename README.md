@@ -7,7 +7,7 @@ This is a simple basic ETL(Extract,Transform and Load) project using Shell scrip
 - Extracted required fields from the file.
 - Transformed the data into CSV format.
 - Loaded the data into the table access_log in PostgreSQL
-- Quered the database for a check
+- Made the database ready for queyring 
 
 # Implementation
 - Extract timestamp, latitude, longitude and visitorid which are the first four fields from the file using the "xut" command and  Redirect the extracted output into a file.
